@@ -1,7 +1,3 @@
-This is a comprehensive `README.md` file for your GitHub repository, based on the architecture and logic found in your provided code.
-
----
-
 # Advanced Evolutionary Trading System: NSGA-II, CPCV, and Fractional Differentiation
 
 An institutional-grade algorithmic trading framework designed to discover, optimize, and validate robust trading strategies using Multi-Objective Genetic Algorithms (NSGA-II) and advanced financial econometrics.
